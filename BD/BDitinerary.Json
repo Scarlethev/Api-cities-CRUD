@@ -1,0 +1,94 @@
+{
+    "dataItinerary": [
+        {
+            "nameOfItinerary": "WALKING TOUR THROUGH THE CENTER OF PARIS",
+            "nameUser": "Martin Martinez",
+            "userImage": "https://firebasestorage.googleapis.com/v0/b/mytinerary-a0fb5.appspot.com/o/userParisOne.jpeg?alt=media&token=75fcc469-636e-45d0-8c2b-a379f5a093f6",
+            "price": "$ 300",
+            "duration": "6 hours",
+            "hashtag": "#visitCenterParis",
+            "imageItinerary": "https://firebasestorage.googleapis.com/v0/b/mytinerary-a0fb5.appspot.com/o/ParisOneItinerary.jpeg?alt=media&token=c76d97f0-cc9f-4a7b-a6d2-a261d4c59d8b",
+            "description": "We suggest visiting the emblematic Eiffel Tower. You can photograph yourself from below, walk through the Champ de Mars, or you can choose to climb the monument to see the views from the tower. From the Champ de Mars you can stroll to Les Invalides, see the church and stroll through the gardens. Opposite Les Invalides is the Rodin Museum with the famous work of Rodin's Thinker, a stop that you can make if you are interested in the artist's works. Walking through the park of l'Esplanade des Invalides you can reach the banks of the Seine, from where you can go to the Musée d'Orsay. After visiting the museum, you can cross the river to eat a picnic in the Jardin des Tuileries, and if it is Christmas take the opportunity to see the Christmas markets. From Les Tuileries you can walk along the Seine River towards the Louvre Museum, which we will leave for later or delete the previous museum for a visit to the Louvre. Close to the museum, we find the famous Notre-Dame Cathedral. You can end the day of the tour returning to your accommodation from the metro stop located near the Cathedral. After the fire that broke out on April 15 in the Notre-Dame de Paris Cathedral, its treasury and its towers are closed and reconstruction and repair work is underway. The security perimeter of the Ile de la Cité has been reduced since April 21. However, it is still impossible to access the immediate surroundings of the cathedral, as well as the Petit Pont and the Pont au Double."
+        },
+        {
+            "nameOfItinerary": "LOUVRE, CENTER POMPIDOU AND MONTMARTRE",
+            "nameUser": "Richard Brown",
+            "userImage": "https://firebasestorage.googleapis.com/v0/b/mytinerary-a0fb5.appspot.com/o/userParisTwo.jpeg?alt=media&token=1bcd581b-7863-49b1-aa1e-a64ed7d913a5",
+            "price": "$ 500",
+            "duration": "6 hours",
+            "hashtag": "#visitLouvre",
+            "imageItinerary": "https://console.firebase.google.com/project/mytinerary-a0fb5/storage/mytinerary-a0fb5.appspot.com/files",
+            "description": "We will start the day visiting the Louvre Museum. When you leave, look for the entrance to the shopping center that is located below the museum, from where you can see the famous pyramid of the museum, but this time inverted. Then you can go to visit the Pompidou Center on Via Rivoli and take the opportunity to do some souvenir shopping. In the afternoon you can go by metro to the Montmartre neighborhood, known as the neighborhood of painters. This area of Paris is characterized by hosting picturesque sites, some older than others. The star place in the neighborhood is the Basilica of the Sacred Heart, located on top of a hill, from where you can appreciate wonderful views of the city. Going down the neighborhood, about a 15-minute walk away, you'll find the famous Moulin Rouge. During the night of this tour of Paris you can go out for dinner in the area and enjoy a cabaret show"
+        },
+        {
+            "nameOfItinerary": "COLISEUM",
+            "nameUser": "Anna García",
+            "userImage": "https://firebasestorage.googleapis.com/v0/b/mytinerary-a0fb5.appspot.com/o/userRomeOne.jpeg?alt=media&token=91ff2cd5-3cbe-4024-8686-a81d62a66f19",
+            "price": "$ 450",
+            "duration": "4 hours",
+            "hashtag": "#visityColiseum",
+            "imageItinerary": "https://firebasestorage.googleapis.com/v0/b/mytinerary-a0fb5.appspot.com/o/ColiseumRome.jpeg?alt=media&token=8b4a2284-5557-4c17-bff9-b56aaf237da2",
+            "description": "On this guided tour of the Colosseum we will visit the largest Roman amphitheater in the world. Without a doubt, an essential that you cannot miss if you are in the capital of Italy.We will start our guided tour of the Colosseum next to the Colosseo metro station, where we will meet at the Via dei Fori Imperiali exit at the indicated time.After a brief introduction, we will access the interior of the Colosseum in Rome. This imposing monument was inaugurated in the year 80 AD. under the name of Flavian Amphitheatre, in the time of Emperor Titus. During the visit, we will visit a part of the stands of this colossal venue dedicated to public leisure. Did you know that it could accommodate up to 50,000 spectators? We will continue the guided tour of the Colosseum, the largest Roman amphitheater in the world, contemplating the arena area from the stands. This is where gladiators fought for their lives, whose bloody fights to the death were followed by hundreds of thousands of people. However, the Flavian Amphitheater did not only host gladiatorial combat. During the visit to the Colosseum, we will also discover what other shows were held in this venue, declared one of the Seven Wonders of the Modern World.After a tour of an hour and a half, we will conclude the visit outside the Colosseum in Rome, where you can take a photo in front of one of the most famous monuments in Italy."
+        },
+        {
+            "nameOfItinerary": "THE TREVI FOUNTAIN AND ITS SUBSOIL",
+            "nameUser": "Ever Huffman",
+            "userImage": "https://firebasestorage.googleapis.com/v0/b/mytinerary-a0fb5.appspot.com/o/userRomeTwo.jpeg?alt=media&token=6af8de85-45f5-4905-8e5d-2ac84d7b2b68",
+            "price": "$ 250",
+            "duration": "4 hours",
+            "hashtag": "#TreviFountain",
+            "imageItinerary": "https://firebasestorage.googleapis.com/v0/b/mytinerary-a0fb5.appspot.com/o/Trevi%20Fountain.jpeg?alt=media&token=f093ed87-99b1-4f77-95aa-eeb65554e440",
+            "description": "Explore one of Rome's highlights with an expert guide. Visit the Trevi Fountain and tour the ruins of the ancient aqueduct 30 feet underground Explore the world's most famous fountain with an expert guide discover its secrets in a quick and comprehensive 40-minute tour Head underground to the 2,000-year-old aqueduct that is still in operation Touch the millennial stratification under the streets of Rome Meet your local expert guide and embark on this guided walking tour to uncover the mystery of the Trevi Fountain, which goes far beyond just tossing a coin into it. Learn about its fascinating history and discover the mythological figures that elegantly emerge from the rough stone of the base. Afterwards, dive into the newly discovered archaeological site underground.Find the only working aqueduct from ancient times that still supplies water to the source, and visit the remains of an imperial Domus. Travel back in time and touch the millennial layering under the streets of Rome."
+        },
+        {
+            "nameOfItinerary": "CENTRAL LONDON",
+            "nameUser": "Alex Crouse",
+            "userImage": "https://firebasestorage.googleapis.com/v0/b/mytinerary-a0fb5.appspot.com/o/userLondonOne.jpeg?alt=media&token=d289412b-f7bd-466a-a405-24bebe7a125d",
+            "price": "$470",
+            "duration": "6 hours",
+            "hashtag": "#VisitCenterLondon",
+            "imageItinerary": "https://firebasestorage.googleapis.com/v0/b/mytinerary-a0fb5.appspot.com/o/CenterLondon.jpeg?alt=media&token=4a1e3293-8131-4e9a-af38-ee582fee48fa",
+            "description": "Your first day in London will be to see the typical tourist places of the city. And we thought that a good way to start off on the right foot would be to travel to the Queensway station on the red line and begin your visit to Kensington Palace and its gardens. From there you can go down, enjoying a walk through Hyde Park and Green Park. Here we recommend you visit Buckingham Palace. Without a doubt, this entire journey will take you a long time, especially if you want to do it well, so it is a good time to have lunch. A quick meal in Green Park can be an excellent alternative, you can also opt for a delicious lunch at Borough market.In the afternoon we recommend you go to Big Ben to admire this iconic building and also visit Westminster Abbey and the Palace of Westminster, which are two must-see sites in London. Then go to palace-westminster.php, and go down to London Bridge. If you want to get good views of the city, we recommend you do the London Eye experience first. You can spend the rest of the afternoon walking around, enjoying the postcards that form next to the Thames at sunset and enjoying a beer in a pub on the promenade."
+        },
+        {
+            "nameOfItinerary": "THE MOST IMPORTANT MUSEUMS",
+            "nameUser": "Rosse Alf",
+            "userImage": "https://firebasestorage.googleapis.com/v0/b/mytinerary-a0fb5.appspot.com/o/userLondoTwo.jpeg?alt=media&token=ef0d8e53-1cad-48b1-8a67-839cf7d02050",
+            "price": "$ 450",
+            "duration": "5 hours",
+            "hashtag": "#visitMuseums",
+            "imageItinerary": "https://firebasestorage.googleapis.com/v0/b/mytinerary-a0fb5.appspot.com/o/British%20Museum.jpeg?alt=media&token=e74e160d-643b-4148-b7a3-00323f5ab04c",
+            "description": "We recommend that you dedicate it to discovering some of the most representative museums of the city's history. First of all we recommend that you visit the British Museum, located near Russell Square. This visit will take a long time because it is a very large place and full of interesting things, so we recommend that you dedicate the whole morning to it.Then you can have a quick lunch in the area and then head to Piccadilly Circus station and visit the National Gallery, the Institute of Contemporary Art and the Charles Dickens Museum.You can end this second day enjoying a delicious beer in a typical English pub."
+        },
+        {
+            "nameOfItinerary": "City Tour by Seated Boat",
+            "nameUser": "Andrew Powel",
+            "userImage": "https://firebasestorage.googleapis.com/v0/b/mytinerary-a0fb5.appspot.com/o/userBerlinOne.jpeg?alt=media&token=1238696d-6051-403e-9d8b-32e3d2011718",
+            "price": "$620",
+            "duration": "3 hours",
+            "hashtag": "#TourSeatedBoat",
+            "imageItinerary": "https://firebasestorage.googleapis.com/v0/b/mytinerary-a0fb5.appspot.com/o/BoatTourBerlin.jpeg?alt=media&token=092938ee-c8cb-4438-bde9-a6f0a6455f5b",
+            "description": "On this tour you will learn about the fascinating history on Berlin and you will be able to see the most important attractions from comfortable boat. The cruise departs from Friedrichstraße or Nikolaiviertel and crosses Berlin on a 1-hour tour.Discover the historic city of Berlin on a 1-hour boat tour. Get to know the city with an audio guide in 8 different languages Sail past the Reichstag and see the beautiful Berlin Cathedral in detail discover some of the most iconic sights in Berlin on a boat tour. Enjoy relaxing on a boat cruise on the Spree and taking in the sights in the heart of this lively city.Depart from Friedrichstraße or Nikolaiviertel. The 1-hour tour will take you past the Reichstag (German Parliament), The New Regierungsviertel (Government Quarter) and the Haus der Kulturen der Welt (Center of World Cultures). After turning at the Lutherbrücke (Luther Bridge), see the Schloss Bellevue (Bellevue Palace), the Beamtenschlange (civil servants' quarters) and the Siegessäule (Victory Column).Marvel at the Hauptbahnhof (Central Station), the Berliner Dom (Berlin Cathedral), the Museumsinsel (Museum Island) and the Nikolaiviertal, Berlin's oldest residential area. Return to Friedrichstraße or Nikolaiviertel to end the tour"
+        },
+        {
+            "nameOfItinerary": "Empire State Building",
+            "nameUser": "George Huffman",
+            "userImage": "https://firebasestorage.googleapis.com/v0/b/mytinerary-a0fb5.appspot.com/o/userNewYorkOne.jpeg?alt=media&token=7c59bd12-81e4-4d99-ac32-47371463f04e",
+            "price": "$ 600",
+            "duration": "4 hours",
+            "hashtag": "#NewYork #EmpireStateBuilding",
+            "imageItinerary": "https://firebasestorage.googleapis.com/v0/b/mytinerary-a0fb5.appspot.com/o/EmpireNewYork.jpeg?alt=media&token=988706ac-887a-468d-9786-9d1384c9ef97",
+            "description": "NYC: Empire State Building Morning & Night Entry Ticket Experience New York's highest open-air observatory twice in one day to feel the true pulse and romance of 24-hour Manhattan. Visit once in the daytime for endless views under the sun, and then again that same night - this time with sparkling city lights.Take in the whole Empire State Building Experience during the day, and again that same night (after 9 or 10 PM)Look out on New York City the city that never sleeps, from 1,454 feet above the bustling streets below See panoramic daytime views of up to six states from the surrounding open-air promenade or from the climate controlled viewing galleries Enjoy the romance of Manhattan at night, with breath-taking views of it's sparkling array of lights Skip the ticket office line with your barcoded ticket Download the free multilingual app Full description Soaring 1,454 feet (443 meters) above Midtown Manhattan from base to antenna, the Empire State Building (ESB) is one of the world's most famous buildings. The 86th Floor Observation Deck, open daily from 8 AM-2 AM, offers the highest 360-degree open-air vantage point in New York City. On a clear day, you can see up to six states — New York, New Jersey, Pennsylvania, Delaware, Connecticut, and Massachusetts. With this day and night ticket, experience the city from the 360-degree, open-air observatory both under the sun and the sparkling city lights the same night. Guests will also have access to the brand-new Observatory Experience complete with 10,000 square feet (929 square meters) of interactive exhibits that invite you on a journey beginning with the building's construction to its current place in pop culture."
+        },
+        {
+            "nameOfItinerary": "PUERTA DEL SOL",
+            "nameUser": "Kattie Gren",
+            "userImage": "https://firebasestorage.googleapis.com/v0/b/mytinerary-a0fb5.appspot.com/o/userMadridOne.jpeg?alt=media&token=90bb6cd4-8f35-4953-89f9-e49323d6533f",
+            "price": "$600",
+            "duration":"5 hours",
+            "hashtag": "#PuertaDelSol",
+            "imageItinerary": "https://firebasestorage.googleapis.com/v0/b/mytinerary-a0fb5.appspot.com/o/PuertaDelSol.jpeg?alt=media&token=e9673b8c-99c6-41a3-baa9-6b6970c3da2d",
+            "description": "Start your day at the Puerta del Sol, the central square of Madrid. Admire the famous statue of the bear and the strawberry tree and enjoy the lively atmosphere. Visit the Royal Palace of Madrid, exploring its opulent rooms and beautiful gardens.Explore the historic Plaza Mayor and its surrounding streets, filled with shops, cafes, and restaurants.Discover the vibrant Mercado de San Miguel, where you can indulge in delicious tapas and local delicacies.In the evening, immerse yourself in the lively nightlife of Madrid by visiting bars and clubs in neighborhoods like Malasaña or Chueca."
+        }
+    ]
+}

@@ -11,4 +11,6 @@ const citiesSchema= new mongoose.Schema({
 
 const Cities= mongoose.model("cities",citiesSchema)
 
+
+
 module.exports=Cities
