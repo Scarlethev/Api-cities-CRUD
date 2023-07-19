@@ -1,5 +1,5 @@
 const express = require("express");
-const cors = require("cors");
+const cors = require("cors"); // REQUERIMIENTOS Y RESPUESTAS DE BACKEND Y FRONTEND 
 require("dotenv").config()
 require("./Config/database")
 
@@ -17,8 +17,6 @@ app.set("port",PORT);
 app.use(express.json())
 app.use("/Api", Router)
 
-
 app.listen(PORT,()=> {
     console.log("SERVIDOR CORRIENDO EN PUERTO "+ app.get("port"))
-
 })
