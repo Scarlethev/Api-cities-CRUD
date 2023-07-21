@@ -39,7 +39,7 @@ const citiesControllers = {
     },
 
     addCity: async (req, res) => {
-        const { name, country, description } = req.body.data
+        const { name, country, currency, description } = req.body.data
         let city
         let error = null
 
@@ -47,6 +47,7 @@ const citiesControllers = {
             city = await new Cities({
                 name: name,
                 country: country,
+                currency: currency,
                 description: description
             }).save()
         }

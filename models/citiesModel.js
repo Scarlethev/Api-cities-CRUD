@@ -5,7 +5,7 @@ const mongoose=require("mongoose")
 const citiesSchema= new mongoose.Schema({
     name:{type:String, required:true},
     country:{type:String, required:true},
-    currency:{type:Number, required:true},
+    currency:{type:String, required:true},
     language:{type:String, required:true},
     description:{type:String, required:true},
     image:{type:String, required:true},
